@@ -7,3 +7,5 @@ to work with gui interface
 
 
 few more lines
+
+some new lines
