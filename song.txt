@@ -1,4 +1,6 @@
-txt file 
+txt file
 test it
 lets add 2 more lines
 from the web interface 
+add two more lines
+to work with gui interface 
