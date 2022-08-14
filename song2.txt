@@ -1,8 +1,5 @@
 txt file 
 test it
 
-
-
-
-git revert practise
-one more line here
+let's modify one more file to see what's happen
+and here lines more

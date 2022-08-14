@@ -3,6 +3,3 @@ test this file
 
 song.txt file
 let's try to work with it
-
-more content here
-use git revert practice
